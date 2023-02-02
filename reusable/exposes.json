@@ -1,0 +1,4 @@
+{
+  "./BasicCard": "./src/component/BasicCard/BasicCard",
+  "./LikeAndCommentCountMethod": "./src/component/LikeAndCommentCountMethod/LikeAndCommentCountMethod"
+}
